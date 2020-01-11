@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_inicio",
+  "version": "0.0.1",
+  "description": "Curso de inicio de node.js",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "colorts": "^0.1.63",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeilGutierrezChacon/NodeJs_inicio.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Neil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeilGutierrezChacon/NodeJs_inicio/issues"
+  },
+  "homepage": "https://github.com/NeilGutierrezChacon/NodeJs_inicio#readme"
+}
